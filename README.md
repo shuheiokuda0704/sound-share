@@ -1,11 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+## How to run
+1. docker-compose build
+1. docker-compose up
+1. docker-compose run app rails db:create
+1. Open `localhost:3000` on your web browser
+1. Happy hacking!
 
 * Ruby version
+3.0.3
 
 * System dependencies
 
